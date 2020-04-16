@@ -15,3 +15,4 @@ if __name__ == '__main__':
     print(p.nome)
     p.nome = 'Douglas'
     print(p.nome)
+    print(p.idade)
