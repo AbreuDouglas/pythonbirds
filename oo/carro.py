@@ -126,7 +126,6 @@ class Direcao:
     rotacao_a_esquerda_dct = {
         NORTE: OESTE, OESTE: SUL, SUL: LESTE, LESTE: NORTE
     }
-
     def __init__(self):
        self.valor = NORTE
     def girar_a_direita(self):
